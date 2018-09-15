@@ -53,10 +53,10 @@ export default class Bananas extends Component {
       <Image source={pic} style={{width: 193, height: 110}}/>
 
        
-        <Text>Hello world!</Text>
+        <Text>Login Page UI Will be added soon!</Text>
 
 
-         <Blink text='I love to blink' />
+         <Blink text='I am testing UI' />
         <Blink text='Yes blinking is so great' />
         <Blink text='Why did they ever take this out of HTML' />
         <Blink text='Look at me look at me look at me' />
