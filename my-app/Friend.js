@@ -22,7 +22,7 @@ export default class Friend extends React.Component {
  
  }
 
-
+//Google API
 handleGetDirections = (lat,lon) => {
 
   
