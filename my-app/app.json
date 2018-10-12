@@ -1,5 +1,11 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "sdkVersion": "27.0.0",
+    "name": "PickMe",
+    "description": "react native app feature",
+    "android": {
+      "package": "com.rahul.react"
+    }
   }
+
 }
